@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+plotly
+tensorflow
+scikit-learn
+streamlit
+gdown
+Flask==2.3.2
+Flasgger==0.9.5
+pandas==1.5.3

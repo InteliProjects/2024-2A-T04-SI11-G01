@@ -1,0 +1,6 @@
+pandas
+plotly
+gdown
+pyarrow
+ace-tools
+nbformat
